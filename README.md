@@ -1,5 +1,5 @@
 # PageLinker
-the bookmarklet source code that makes page link which you watching.
+the bookmarklet source code that makes page link which you are watching.
 
 ## How to make bookmarklet
 1. Clone my source code.
