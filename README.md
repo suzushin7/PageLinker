@@ -2,12 +2,9 @@
 the bookmarklet source code that makes page link which you are watching.
 
 ## How to make bookmarklet
-1. Clone my source code.
-2. Put the source code on one line.
-3. URL-encode the source code. → (A)
-4. Create new bookmark in your web browser.
-5. Paste (A) into the URL.
-6. Name this bookmarklet "PageLink".
+1. Create new bookmark in your web browser.
+2. Paste "PageLinker-min.js" code into the URL.
+3. Name this bookmarklet "PageLink".
 
 ## How to use the bookmarklet
 1. Activate the page that you want to make page link.
